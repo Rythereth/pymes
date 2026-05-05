@@ -147,7 +147,7 @@ function Inventario() {
       <header style={{ marginBottom: '30px', borderBottom: `3px solid ${colors.lightSeaGreen}`, paddingBottom: '10px', display: 'flex', alignItems: 'center', gap: '15px' }}>
         <Package size={40} color={colors.midnightGreen} />
         <div>
-          <h1 style={{ color: colors.midnightGreen, margin: 0 }}>El Santo Grial de las Pymes</h1>
+          <h1 style={{ color: colors.midnightGreen, margin: 0 }}>Inventario</h1>
           <p style={{ color: '#666', marginTop: '5px', marginBottom: 0 }}>Gestión de Inventario Local</p>
         </div>
       </header>

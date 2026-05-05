@@ -76,3 +76,7 @@ CREATE TABLE detalles_venta (
   subtotal numeric(10,2) NOT NULL,
   updated_at timestamptz DEFAULT now()
 );
+
+
+SELECT * FROM detalles_venta;
+SELECT * FROM productos;

@@ -22,7 +22,7 @@ function Layout({ usuarioActivo, onLogout }) {
       <aside style={{ width: '260px', backgroundColor: colors.midnightGreen, color: 'white', display: 'flex', flexDirection: 'column' }}>
         <div style={{ padding: '25px 20px', borderBottom: '1px solid rgba(255,255,255,0.1)', display: 'flex', alignItems: 'center', gap: '12px' }}>
           <Store size={28} color={colors.lightSeaGreen} />
-          <h2 style={{ fontSize: '20px', margin: 0, fontWeight: '600' }}>Mi Pyme</h2>
+          <h2 style={{ fontSize: '20px', margin: 0, fontWeight: '600' }}>Stockly</h2>
         </div>
         
         <nav style={{ padding: '20px', display: 'flex', flexDirection: 'column', gap: '8px', flex: 1 }}>

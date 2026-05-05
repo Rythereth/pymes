@@ -53,7 +53,7 @@ function Login({ onLoginExitoso }) {
       <div style={{ backgroundColor: 'white', padding: '40px', borderRadius: '16px', boxShadow: '0 10px 25px rgba(0,0,0,0.5)', width: '380px', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         
         <Store size={48} color={colors.lightSeaGreen} style={{ marginBottom: '10px' }} />
-        <h1 style={{ color: colors.midnightGreen, margin: '0 0 5px 0', fontSize: '24px' }}>Mi Pyme</h1>
+        <h1 style={{ color: colors.midnightGreen, margin: '0 0 5px 0', fontSize: '24px' }}>Stockly</h1>
         <p style={{ color: '#64748B', margin: '0 0 20px 0', fontSize: '14px' }}>Ingresa tu PIN de acceso</p>
 
         {/* Pantalla del PIN */}
